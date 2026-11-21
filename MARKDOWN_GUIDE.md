@@ -26,11 +26,13 @@
 ```python
 def greet(name):
     return f"Hello, {name}!"
+print(greet("vivek"))
+
 Save the file:
 
-1. Press `Ctrl + O`
-2. Press `Enter`
-3. Press `Ctrl + X`
+- Press `Ctrl + O`
+- Press `Enter`
+- Press `Ctrl + X`
 
 Verify:
 
